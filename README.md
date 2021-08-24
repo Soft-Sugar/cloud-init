@@ -1,1 +1,5 @@
 # cloud-init
+
+<h1 style="color:red; font-size:30px;">This is a heading</h1>
+<p style="color:green; font-size:18px;">This is a paragraph.</p>
+<div style="color:green; font-size:18px;">This is some text.</div>
